@@ -1,0 +1,32 @@
+{
+  "name": "v-currency-text-field",
+  "version": "1.0.0",
+  "description": "A simple currency field for Vue built ontop of Vuetify's v-text-field element.",
+  "main": "dist/v-currency-text-field.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaerod95/v-currency-text-field.git"
+  },
+  "keywords": [
+    "vue",
+    "vuetify",
+    "currency",
+    "money",
+    "v-text-field"
+  ],
+  "files": [
+    "dist/"
+  ],
+  "author": "Jason Rodriguez <jason@frenteventures.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaerod95/v-currency-text-field/issues"
+  },
+  "homepage": "https://github.com/jaerod95/v-currency-text-field#readme",
+  "dependencies": {
+    "vuetify": "2.0.7"
+  }
+}
