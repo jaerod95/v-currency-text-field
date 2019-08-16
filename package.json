@@ -26,7 +26,7 @@
     "url": "https://github.com/jaerod95/v-currency-text-field/issues"
   },
   "homepage": "https://github.com/jaerod95/v-currency-text-field#readme",
-  "dependencies": {
+  "devDependencies": {
     "vuetify": "2.0.7"
   }
 }

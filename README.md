@@ -10,6 +10,8 @@
 
 ## Usage
 
+This package assumes vuetify has already been installed and added to your Vue instance.
+
 ### Globally
 
 ```js
